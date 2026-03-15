@@ -1,11 +1,10 @@
 class Solution {
 public:
     bool isPossibleToSplit(vector<int>& nums) {
-        unordered_map<int,int> freq;
-        for(int x : nums){
-            freq[x]++;
-            if(freq[x] > 2) return false;
-        }     
-        return true;
-    }
+        int d[101]={0};int n=nums.size();
+        for(int i=0;i<n;i++){
+            d[nums[i]]++;
+            if(d[nums[i]]>2)return false;
+        }
+        return true;}
 };
