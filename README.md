@@ -26,4 +26,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
