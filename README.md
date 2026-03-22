@@ -29,5 +29,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
