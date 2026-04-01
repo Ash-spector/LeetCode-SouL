@@ -18,6 +18,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0020-valid-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -45,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0561-array-partition/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
