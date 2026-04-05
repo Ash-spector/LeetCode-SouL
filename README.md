@@ -34,6 +34,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0183-customers-who-never-order/) | Easy |
 | [0626-exchange-seats](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0626-exchange-seats/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
