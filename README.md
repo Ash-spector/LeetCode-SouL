@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
+| [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
