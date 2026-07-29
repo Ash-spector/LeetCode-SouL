@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
+| [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0561-array-partition](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0561-array-partition/) | Easy |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
 ## Math
@@ -26,6 +27,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0561-array-partition](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
