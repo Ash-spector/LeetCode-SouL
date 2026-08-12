@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0027-remove-element/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
