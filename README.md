@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -132,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0238-product-of-array-except-self/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
