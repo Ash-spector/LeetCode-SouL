@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
