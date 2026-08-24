@@ -166,4 +166,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
