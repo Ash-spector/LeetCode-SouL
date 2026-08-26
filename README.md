@@ -17,6 +17,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -165,6 +166,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
