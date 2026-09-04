@@ -29,6 +29,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [0724-find-pivot-index](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
