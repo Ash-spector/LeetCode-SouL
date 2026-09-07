@@ -63,6 +63,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0443-string-compression/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -121,6 +122,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
