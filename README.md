@@ -37,6 +37,7 @@
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
