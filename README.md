@@ -26,6 +26,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -80,6 +81,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +222,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
