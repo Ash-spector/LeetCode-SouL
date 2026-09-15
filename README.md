@@ -57,6 +57,7 @@
 | [0443-string-compression](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0561-array-partition](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0605-can-place-flowers/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
