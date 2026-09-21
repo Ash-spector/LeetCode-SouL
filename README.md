@@ -30,6 +30,7 @@
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -42,6 +43,7 @@
 | [0836-rectangle-overlap](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -146,6 +148,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
