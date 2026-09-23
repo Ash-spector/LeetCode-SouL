@@ -24,6 +24,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -93,6 +94,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
@@ -210,6 +212,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union-Find
@@ -224,6 +227,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
@@ -235,6 +239,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
