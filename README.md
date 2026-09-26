@@ -27,6 +27,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -85,6 +86,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
@@ -100,6 +102,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
