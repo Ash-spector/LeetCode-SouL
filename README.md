@@ -83,6 +83,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0020-valid-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,4 +287,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1096-brace-expansion-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
