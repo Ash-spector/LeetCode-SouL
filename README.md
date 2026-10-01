@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0283-move-zeroes/) | Easy |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
