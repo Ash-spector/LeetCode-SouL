@@ -29,6 +29,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
@@ -108,6 +109,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
