@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0283-move-zeroes/) | Easy |
@@ -104,6 +105,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -121,6 +123,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3046-split-the-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3046-split-the-array/) | Easy |
 ## Database
@@ -144,6 +147,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -210,6 +214,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -307,4 +312,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
