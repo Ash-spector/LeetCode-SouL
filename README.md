@@ -49,6 +49,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
@@ -187,6 +188,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
@@ -321,4 +323,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
