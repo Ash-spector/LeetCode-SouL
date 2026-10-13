@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0189-rotate-array/) | Medium |
@@ -143,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0561-array-partition](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0605-can-place-flowers/) | Easy |
@@ -178,6 +180,7 @@
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0940-distinct-subsequences-ii/) | Hard |
