@@ -68,6 +68,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0027-remove-element/) | Easy |
@@ -87,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0115-distinct-subsequences/) | Hard |
@@ -179,6 +181,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -336,4 +339,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0002-add-two-numbers/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
