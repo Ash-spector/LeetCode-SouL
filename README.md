@@ -52,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
