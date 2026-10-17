@@ -209,11 +209,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0100-same-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0100-same-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -225,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0100-same-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -344,4 +347,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0005-longest-palindromic-substring/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
