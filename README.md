@@ -362,4 +362,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0933-number-of-recent-calls/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
