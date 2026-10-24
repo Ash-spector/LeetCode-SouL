@@ -84,6 +84,7 @@
 | [0443-string-compression](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -352,6 +353,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0206-reverse-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
