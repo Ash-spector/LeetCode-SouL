@@ -215,6 +215,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0100-same-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -235,6 +236,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0100-same-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -366,6 +368,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
