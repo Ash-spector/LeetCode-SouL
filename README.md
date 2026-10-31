@@ -110,6 +110,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hash Table
@@ -181,6 +182,7 @@
 | [1096-brace-expansion-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +331,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Ash-spector/LeetCode-SouL/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
