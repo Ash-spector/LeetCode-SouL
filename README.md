@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0724-find-pivot-index/) | Easy |
 | [0835-image-overlap](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0835-image-overlap/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -124,6 +125,7 @@
 | [0242-valid-anagram](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ash-spector/LeetCode-SouL/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
