@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0509-fibonacci-number/) | Easy |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Ash-spector/LeetCode-SouL/tree/main/0169-majority-element/) | Easy |
